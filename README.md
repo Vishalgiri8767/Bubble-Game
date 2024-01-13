@@ -1,3 +1,3 @@
 # Bubble Game
 
-## [click here to play game]()
+## [Click here to play game]()
